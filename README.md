@@ -9,6 +9,6 @@ All of this was achieved through probability which was calculated using the conv
 - Import the UltraSonic-Reader repo first, in the project folder
 - Run the code in HistogramLocalization2D folder
 
-
+![Alt text](Automated-Robot/20180713_135438.jpg?raw=true "Picture of Robot")
 
 
